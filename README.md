@@ -36,3 +36,8 @@ The goal is to build a reliable fraud detection pipeline that can distinguish fr
 
 ---
 
+**Author:** Sezer Bayraktar  
+*Aspiring Data Scientist & AI Engineer* 🇩🇪
+
+---
+
